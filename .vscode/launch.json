@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SmartInventoryApplication<smart-inventory>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.inventory.SmartInventoryApplication",
+            "projectName": "smart-inventory",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
