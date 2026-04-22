@@ -1,4 +1,4 @@
-# StockSense - Smart Inventory Management System
+# Smart Supply - Smart Inventory Management System
 
 A full-stack inventory management system built for grocery store managers. Every core operation is powered by a hand-built DSA structure in Java, giving real-time visibility into stock levels, sales, alerts, and demand prediction.
 
