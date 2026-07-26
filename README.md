@@ -17,7 +17,7 @@ Smart Supply solves all of this using purpose-built Data Structures that make ev
 
 ## Solution Overview
 
-A full-stack Smart Inventory Management System where every core feature is powered by a hand-built DSA structure in Java. The system gives store managers:
+A Optimized Smart Inventory Management System where every core feature is powered by a hand-built DSA structure in Java. The system gives store managers:
 
 - Live inventory dashboard with search, filter and sort
 - Real-time billing with instant undo
